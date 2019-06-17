@@ -1,46 +1,94 @@
 {
-	"pt": {
-		"a-beleza-da-criacao-divina": "A beleza da criação divina",
-		"a-biblia-sagrada": "A Bíblia Sagrada",
-		"a-lei-moral": "A Lei Moral",
-		"a-nova-terra": "A Nova Tera",
-		"a-origem-do-mal": "A Origem do Mal",
-		"a-palavra-de-deus": "A Palavra de Deus",
-		"a-segunda-vinda-de-jesus": "A Segunda Vinda de Jesus",
-		"a-verdade-sobre-a-morte": "A Verdade sobre a Morte",
-		"a-volta-de-cristo": "A Volta de Cristo",
-		"as-leis-na-biblia": "As Leis na Bíblia",
-		"chamado-a-missao": "Chamado à Missão",
-		"comunhao-e-relacionamento": "Comunhão e Relacionamento",
-		"descobrindo-os-misterios-da-morte": "Descobrindo os mistérios da morte",
-		"dez-segredos-de-vida": "Dez segredos da vida",
-		"educando-com-sucesso": "Educando com sucesso",
-		"fe-arrependimento-e-confissao": "Fé, Arrependimento e Confissão",
-		"mensageiros-divinos": "Mensageiros Divinos",
-		"o-dizimo": "O Dízimo",
-		"o-juizo": "O Juízo",
-		"o-mandamento-esquecido": "O Mandamento Esquecido",
-		"o-melhor-da-vida-crista": "O melhor da vida cristã",
-		"o-melhor-da-vida": "O melhor da vida",
-		"o-milenio": "O Milênio",
-		"o-perdao-de-deus": "O perdão de Deus",
-		"o-plano-da-salvacao": "O plano da Salvação",
-		"o-poder-do-amor": "O poder do amor",
-		"o-santuario-de-deus": "O santuário de Deus",
-		"o-segredo-da-prosperidade": "O segredo da properidade",
-		"porque-devo-ser-batizado": "Porque devo ser batizado",
-		"principios-de-saude": "Princípios de Saúde",
-		"principios-do-viver-saudavel": "Princípios do Viver Saudável",
-		"profecias-para-hoje": "Profecias para joje",
-		"qual-e-a-igreja-verdadeira": "Qual é a igreja verdadeira",
-		"salvacao-pela-graca": "Salvação pela graça",
-		"simplicidade-e-modestia": "Simplicidade e modéstia",
-		"sinais-da-volta-de-cristo": "Sinais da volta de Cristo",
-		"um-ato-de-adoracao": "Um ato de adoração",
-		"um-dia-de-descanso": "Um dia de descanso",
-		"um-lugar-de-alegria": "Um lugar de alegria",
-		"uma-missao-para-todos": "Uma missão para todos",
-		"verdadeiro-dia-de-guarda": "Verdadeiro dia de guarda",
-		"vida-nova-com-compromisso": "Vida nova com compromisso"
-	}
+  "pt": [
+    {
+      "ID": "fe8c15fed5f808006ce95eddb7366e35",
+      "slug": "a-segunda-vinda-de-jesus",
+      "title": "A segunda vinda de Jesus",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/a-segunda-vinda-de-jesus.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/fe8c15fed5f808006ce95eddb7366e35/students"
+      }
+    },
+    {
+      "ID": "f4552671f8909587cf485ea990207f3b",
+      "slug": "descobrindo-os-misterios-da-morte",
+      "title": "Descobrindo os Mistérios da Morte",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/descobrindo-os-misterios-da-morte.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/f4552671f8909587cf485ea990207f3b/students"
+      }
+    },
+    {
+      "ID": "b86e8d03fe992d1b0e19656875ee557c",
+      "slug": "o-segredo-da-prosperidade",
+      "title": "O Segredo da Prosperidade",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/o-segredo-da-prosperidade.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/b86e8d03fe992d1b0e19656875ee557c/students"
+      }
+    },
+    {
+      "ID": "e97ee2054defb209c35fe4dc94599061",
+      "slug": "mensageiros-divinos",
+      "title": "Mensageiros Divinos",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/mensageiros-divinos.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/e97ee2054defb209c35fe4dc94599061/students"
+      }
+    },
+    {
+      "ID": "dc5689792e08eb2e219dce49e64c885b",
+      "slug": "simplicidade-e-modestia",
+      "title": "Simplicidade e Modéstia",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/simplicidade-e-modestia.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/dc5689792e08eb2e219dce49e64c885b/students"
+      }
+    },
+    {
+      "ID": "1aa48fc4880bb0c9b8a3bf979d3b917e",
+      "slug": "um-lugar-de-alegria",
+      "title": "Um Lugar de Alegria",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/um-lugar-de-alegria.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/1aa48fc4880bb0c9b8a3bf979d3b917e/students"
+      }
+    },
+    {
+      "ID": "1141938ba2c2b13f5505d7c424ebae5f",
+      "slug": "vida-nova-com-compromisso",
+      "title": "Vida Nova com Compromisso",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/vida-nova-com-compromisso.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/1141938ba2c2b13f5505d7c424ebae5f/students"
+      }
+    },
+    {
+      "ID": "1905aedab9bf2477edc068a355bba31a",
+      "slug": "um-dia-de-descanso",
+      "title": "Um dia de Descanso",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/um-dia-de-descanso.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/1905aedab9bf2477edc068a355bba31a/students"
+      }
+    },
+    {
+      "ID": "7a53928fa4dd31e82c6ef826f341daec",
+      "slug": "dez-segredos-de-vida",
+      "title": "Dez Segredos de Vida",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/dez-segredos-de-vida.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/7a53928fa4dd31e82c6ef826f341daec/students"
+      }
+    },
+    {
+      "ID": "28267ab848bcf807b2ed53c3a8f8fc8a",
+      "slug": "comunhao-e-relacionamento",
+      "title": "Comunhão e Relacionamento",
+      "urls": {
+        "content": "https://data.saibamais.org.br/pt/comunhao-e-relacionamento.json",
+        "students": "https://cursos.saibamais.org.br/wp-json/saibamais/v2/lesson/28267ab848bcf807b2ed53c3a8f8fc8a/students"
+      }
+    }
+  ]
 }
