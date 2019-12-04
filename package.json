@@ -1,0 +1,11 @@
+{
+  "name": "sm-bible-lessons",
+  "version": "1.0.0",
+  "main": "compile.js",
+  "repository": "git@github.com:saiba-mais/bible-lessons.git",
+  "author": "Rodrigo Palheiro <contato@saibamais.org.br>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
