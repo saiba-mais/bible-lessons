@@ -44,7 +44,7 @@ async function start(){
     Object.keys(catalog).map(lang => {
         getLessons(catalog, lang);
     });
-
+    
 }
 
 start();
