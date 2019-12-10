@@ -6,6 +6,7 @@
   "author": "Rodrigo Palheiro <contato@saibamais.org.br>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.0",
+    "bible-passage-reference-parser": "^2.0.1"
   }
 }

@@ -1,0 +1,276 @@
+$FIRST	1	اول
+$SECOND	2
+$THIRD	3
+$FOURTH	4
+$AB	[a-e]
+$AND	و	؛	،
+$CHAPTER	فصل	بـاب	بـاب	باب
+$FF	ff
+$TITLE	title
+$TRANS	ALAB	VD
+$TO	تا
+$VERSE	ایات	ایه	آیه	ایـات	آیات
+$COLLAPSE_COMBINING_CHARACTERS	false
+$UNICODE_BLOCK	Arabic
+
+Gen	پیدایش	پدایش	یپدایش
+Exod	خروج	خروج
+Lev	لاویان	لاویان
+Num	اعداد	اعداد
+Deut	تثنیه	تشنیه
+Josh	یوشع	یوشع
+Judg	داوران	داوران
+Ruth	روت	روت
+1Sam	اول سموئیل	اول سموییل
+2Sam	دوم سموئیل	دوم سموییل
+1Kgs	اول پادشاهان	اول پادشاهان
+2Kgs	دوم پادشاهان	دوم  پادشاهان
+1Chr	اول تواریخ	اول تواریخ
+2Chr	دوم تواریخ	دوم تواریخ
+Ezra	عزرا	عزرا
+Neh	نحمیا	نحمیا
+Esth	استر	استر
+Job	ایّوب	ایوب
+Ps	مزامیر	مزامیر
+Prov	امثال	امثال	امثال سلیمان	امثال سلی ن
+Eccl	جامعه	جامعه
+Song	غزل غزلها	غزل غزلها
+Isa	اشعیا	اشعیا
+Jer	ارمیا	ارمیا
+Lam	سوگنامه	مراثی ارمیا
+Ezek	حزقیال	حزقیال
+Dan	دانیال	دانیال
+Hos	هوشع	هوشع
+Joel	یوئیل	یوییل
+Amos	عاموس	عاموس
+Obad	عوبدیا	عوبدیا
+Jonah	یونس	یونس
+Mic	میکا	میکاه
+Nah	ناحوم	ناحوم
+Hab	حبقوق	حبقوق
+Zeph	صَفَنیا	صفنیا
+Hag	حَجّای	حخی	حجی
+Zech	زکریا	زکریا
+Mal	ملاکی	ملاکی	مالیک
+Matt	متّی	متی	متی
+Mark	مرقس	مرقس
+Luke	لوقا	لوقا
+John	یوحنا
+Acts	کارهای رسولان	اعمال رسولان
+Rom	رومیان
+1Cor	اول قرنتیان	اول قرنتیان
+2Cor	دوم قرنتیان	دوم قرنتیان
+Gal	غلاطیان	غ طیان	علاطیان
+Eph	افسسیان	افسیان
+Phil	فیلیپیان	فلیپیان
+Col	کولسیان	کولسیان
+1Thess	اول تسالونیکیان	اول تسالونیکیان
+2Thess	دوم تسالونیکیان	دوم تسالونیکیان
+1Tim	اول تیموتاؤس	اول تیموتايوس	اول تیموتایوس	اول تیموتائوس
+2Tim	دوم تیموتاؤس	دوم تیموتايوس	دوم تیموتايوس	دوم تیموتائوس
+Titus	تیطُس	تیطوس
+Phlm	فِلیمُون	فلیمون
+Heb	عبرانیان	ع انیان	عبرانیان	عربانیان
+Jas	یعقوب	یعقوب
+1Pet	اول پطرس	اول پطرس
+2Pet	دوم پطرس	دوم پطرس
+1John	اول یوحنا	اول یحنا
+2John	دوم یوحنا	دوم یحنا
+3John	سوم یوحنا	سوم یحانا
+Jude	یهودا	یهودا
+Rev	مکاشفهٔ یوحنا	مکاشفه	مکاشفه یوحنا
+Tob
+Jdt
+GkEsth
+Wis
+Sir
+Bar
+PrAzar
+Sus
+Bel
+SgThree
+EpJer
+1Macc
+2Macc
+3Macc
+4Macc
+1Esd
+2Esd
+PrMan
+
+#Jonah,Job,Josh,Joel
+#Judg,Jude
+#Phil,Phlm
+
+# Order
+=Gen
+=Exod
+=Bel
+=Lev
+=Num
+=Sir
+=Wis
+=Lam
+=EpJer
+=Rev
+=PrMan
+=Deut
+=Josh
+=Judg
+=Ruth
+=1Esd
+=2Esd
+=Isa
+=2Sam
+=1Sam
+=2Kgs
+=1Kgs
+=2Chr
+=1Chr
+=Ezra
+=Neh
+=GkEsth
+=Esth
+=Job
+=Ps
+=PrAzar
+=Prov
+=Eccl
+=SgThree
+=Song
+=Jer
+=Ezek
+=Dan
+=Hos
+=Joel
+=Amos
+=Obad
+=Jonah
+=Mic
+=Nah
+=Hab
+=Zeph
+=Hag
+=Zech
+=Mal
+=Matt
+=Mark
+=Luke
+=1John
+=2John
+=3John
+=John
+=Acts
+=Rom
+=2Cor
+=1Cor
+=Gal
+=Eph
+=Phil
+=Col
+=2Thess
+=1Thess
+=2Tim
+=1Tim
+=Titus
+=Phlm
+=Heb
+=Jas
+=2Pet
+=1Pet
+=Jude
+=Tob
+=Jdt
+=Bar
+=Sus
+=2Macc
+=3Macc
+=4Macc
+=1Macc
+
+# Preferred names
+# OSIS	Long	Short	Shorter	Single (Ps)
+*Gen
+*Exod
+*Lev
+*Num
+*Deut
+*Josh
+*Judg
+*Ruth
+*1Sam
+*2Sam
+*1Kgs
+*2Kgs
+*1Chr
+*2Chr
+*Ezra
+*Neh
+*Esth
+*Job
+*Ps
+*Prov
+*Eccl
+*Song
+*Isa
+*Jer
+*Lam
+*Ezek
+*Dan
+*Hos
+*Joel
+*Amos
+*Obad
+*Jonah
+*Mic
+*Nah
+*Hab
+*Zeph
+*Hag
+*Zech
+*Mal
+*Matt
+*Mark
+*Luke
+*John
+*Acts
+*Rom
+*1Cor
+*2Cor
+*Gal
+*Eph
+*Phil
+*Col
+*1Thess
+*2Thess
+*1Tim
+*2Tim
+*Titus
+*Phlm
+*Heb
+*Jas
+*1Pet
+*2Pet
+*1John
+*2John
+*3John
+*Jude
+*Rev
+*Tob
+*Jdt
+*GkEsth
+*Wis
+*Sir
+*Bar
+*PrAzar
+*Sus
+*Bel
+*SgThree
+*EpJer
+*1Macc
+*2Macc
+*3Macc
+*4Macc
+*1Esd
+*2Esd
+*PrMan
