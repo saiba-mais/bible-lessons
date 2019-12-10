@@ -64,8 +64,8 @@ const parse = {
 
         content_lesson.questions.map(async (question, index) => {
             content_lesson.questions[index].appendix = [];
-            content_lesson.questions[index] = bible_ref_parser(question, 'description', 'es', 'nkjv' );
-            content_lesson.questions[index] = bible_ref_parser(question, 'questionAppendix', 'es', 'nkjv' );
+            content_lesson.questions[index] = bible_ref_parser(question, 'description', 'es', 'rvr1960' );
+            content_lesson.questions[index] = bible_ref_parser(question, 'questionAppendix', 'es', 'rvr1960' );
         });
         
         return JSON.stringify(content_lesson);
